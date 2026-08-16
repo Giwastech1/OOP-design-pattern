@@ -5,6 +5,6 @@ class BankAccount
 
     public decimal Deposit(decimal amount)
     {
-        return balance += amount;
+       return balance += amount;
     }
 }
