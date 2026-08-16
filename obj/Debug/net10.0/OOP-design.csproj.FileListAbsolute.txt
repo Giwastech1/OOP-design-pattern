@@ -12,3 +12,4 @@ C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\refint\OOP-design.dll
 C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.pdb
 C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.genruntimeconfig.cache
 C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\ref\OOP-design.dll
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.sourcelink.json
