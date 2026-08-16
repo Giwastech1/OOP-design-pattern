@@ -8,3 +8,6 @@ Console.WriteLine();
 BankAccount account = new();
 decimal balance =account.Deposit(3400);
 Console.WriteLine(balance);
+
+BankAccount account2 = new();
+Console.WriteLine(account2.Deposit(100));
