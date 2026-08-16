@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Dotnet\OOP-design\bin\Debug\net10.0\OOP-design.exe
+C:\Users\User\Desktop\Dotnet\OOP-design\bin\Debug\net10.0\OOP-design.deps.json
+C:\Users\User\Desktop\Dotnet\OOP-design\bin\Debug\net10.0\OOP-design.runtimeconfig.json
+C:\Users\User\Desktop\Dotnet\OOP-design\bin\Debug\net10.0\OOP-design.dll
+C:\Users\User\Desktop\Dotnet\OOP-design\bin\Debug\net10.0\OOP-design.pdb
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.AssemblyInfo.cs
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.dll
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\refint\OOP-design.dll
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.pdb
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\OOP-design.genruntimeconfig.cache
+C:\Users\User\Desktop\Dotnet\OOP-design\obj\Debug\net10.0\ref\OOP-design.dll
