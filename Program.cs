@@ -20,5 +20,6 @@ BankAccount user = new BankAccount();
 user.Deposit(400);
 Console.WriteLine(user.Balance());
 user.Deposit(350.25m);
-user.Withdraw(200);
+Console.WriteLine(user.Balance());
+user.Withdraw(2000);
 Console.WriteLine(user.Balance());
