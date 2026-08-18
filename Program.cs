@@ -33,3 +33,10 @@ Console.WriteLine();
 Cat cat = new Cat();
 cat.Eating();
 cat.Meow();
+
+StudentA detail_1 = new StudentA();
+detail_1.Name();
+Console.WriteLine();
+
+StudentB detail_2 = new StudentB();
+detail_2.Name();
