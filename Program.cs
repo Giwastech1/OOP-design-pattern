@@ -23,3 +23,13 @@ user.Deposit(350.25m);
 Console.WriteLine(user.Balance());
 user.Withdraw(2000);
 Console.WriteLine(user.Balance());
+Console.WriteLine();
+
+Dog dog = new Dog();
+dog.Eating();
+dog.Bark();
+Console.WriteLine();
+
+Cat cat = new Cat();
+cat.Eating();
+cat.Meow();
