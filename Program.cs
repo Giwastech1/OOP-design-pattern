@@ -48,3 +48,10 @@ bike.NumberOfTire = 2;
 bike.Start();
 bike.Stop();
 Console.WriteLine(bike.NumberOfTire);
+
+Car car = new Car();
+car.Brand = "Toyota";
+car.NumOfDoor = 4;
+car.Start();
+car.Stop();
+Console.WriteLine(car.Brand);
