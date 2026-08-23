@@ -23,3 +23,19 @@ class Cat : Animal
         Console.WriteLine("The cat is meowing");
     }
 }
+
+class Vehicle
+{
+    public string? Brand { get; set; }
+    public int Amount { get; set; }
+
+    public void Start()
+    {
+        Console.WriteLine("The vehicle is starting...");
+    }
+
+    public void Stop()
+    {
+        Console.WriteLine("The vehicle is stopping...");
+    }
+}

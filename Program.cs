@@ -1,11 +1,10 @@
 ﻿//creating bad bad account balnce.
-using System.Reflection.Metadata;
-
+/*
 BadBankAccount badAccount = new BadBankAccount();
 badAccount.balance = 5968;
 Console.WriteLine(badAccount.balance);
 Console.WriteLine();
-
+*/
 //creating an account with encapsulation principle.
 /*
 BankAccount account = new();
@@ -15,7 +14,7 @@ Console.WriteLine(balance);
 BankAccount account2 = new();
 Console.WriteLine(account2.Deposit(100));
 */
-
+/*
 BankAccount user = new BankAccount();
 user.Deposit(400);
 Console.WriteLine(user.Balance());
@@ -40,3 +39,12 @@ Console.WriteLine();
 
 StudentB detail_2 = new StudentB();
 detail_2.Name();
+*/
+
+Bike bike = new Bike();
+bike.Brand = "Bajaj";
+bike.Amount = 1000000;
+bike.NumberOfTire = 2;
+bike.Start();
+bike.Stop();
+Console.WriteLine(bike.NumberOfTire);
