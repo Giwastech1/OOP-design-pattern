@@ -55,3 +55,6 @@ car.NumOfDoor = 4;
 car.Start();
 car.Stop();
 Console.WriteLine(car.Brand);
+
+Mother mother = new Mother();
+mother.MyRole();
