@@ -41,6 +41,7 @@ StudentB detail_2 = new StudentB();
 detail_2.Name();
 */
 
+/*
 Bike bike = new Bike();
 bike.Brand = "Bajaj";
 bike.Amount = 1000000;
@@ -58,3 +59,21 @@ Console.WriteLine(car.Brand);
 
 Mother mother = new Mother();
 mother.MyRole();
+*/
+
+using System.ComponentModel;
+
+List<object> phones = new List<object>();
+phones.Add(new Phone { Brand = "Samsung", ReleasedYear = "2022", PhonePrice = 4200 });
+phones.Add(new Phone { Brand = "Tekno", ReleasedYear = "2017", PhonePrice = 2000 });
+
+foreach(var phone in phones)
+{
+    if(phone is Phone)
+    {
+        var phoneItem = (Phone)phone;
+        phoneItem.Start();
+        Console.WriteLine(phoneItem.Brand);
+        Console.WriteLine(phoneItem.ReleasedYear);
+    }
+}
